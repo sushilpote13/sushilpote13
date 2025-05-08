@@ -1,5 +1,3 @@
----
-
 # 👋 Hey there, I’m Sushil Ashok Pote! 👾✨
 
 Welcome to my corner of GitHub! I’m a **passionate coder**, **tech enthusiast**, and **future web developer** on a mission to master the digital world. Dive into my repositories, explore my projects, and join me on this crazy coding journey. 🚀
