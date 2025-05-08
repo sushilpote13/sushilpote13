@@ -1,5 +1,3 @@
-Here’s a **mind-blowing, creative README.md** for your GitHub profile that’s sure to stand out:
-
 ---
 
 # 👋 Hey there, I’m Sushil Ashok Pote! 👾✨
